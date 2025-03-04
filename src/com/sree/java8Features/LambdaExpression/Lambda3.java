@@ -1,4 +1,4 @@
-package com.sree.java8Features;
+package com.sree.java8Features.LambdaExpression;
 
 //Develop a lambda expression that is capable of transforming a string into uppercase letters.
 

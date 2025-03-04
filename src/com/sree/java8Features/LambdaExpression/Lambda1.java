@@ -1,4 +1,4 @@
-package com.sree.java8Features;
+package com.sree.java8Features.LambdaExpression;
 
 public class Lambda1 {
 
